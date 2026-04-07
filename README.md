@@ -42,10 +42,15 @@ Deep learning model achieving perfect classification of 3 plant species using Te
 📁 Repository Structure
 -----------------------------------------------------------------------------------------------
 ├── README.md
+
 ├── Plant_Species_Classifier.ipynb (Training notebook)
+
 ├── plant_species_classifier.keras (100% accurate model)
+
 ├── requirements.txt
+
 ├── confusion_matrix.png
+
 └── training_results.png
 
 🚀 Quick Start
