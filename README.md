@@ -62,4 +62,5 @@ Deep learning model achieving perfect classification of 3 plant species using Te
 🎓 Intel Certification Project
 -----------------------------------------------------------------------------------------------
 Completed by: Harshitha MB
+
 Achievement: 100% validation accuracy on plant species classification
