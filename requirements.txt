@@ -1,0 +1,6 @@
+✅ tensorflow    - Model training (MobileNetV2)
+✅ numpy         - Arrays/data processing  
+✅ matplotlib    - Training plots
+✅ seaborn       - Confusion matrix
+✅ scikit-learn  - Metrics (accuracy, classification_report)
+✅ pillow        - Image loading/resizing
