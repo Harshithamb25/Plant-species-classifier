@@ -8,11 +8,12 @@ Deep learning model achieving perfect classification of 3 plant species using Te
 | Validation Accuracy | 100.00% 🎉                                        |
 | Classes             | Celosia Argenta L, Crowfoot Grass, Purple Chloris |
 
-Confuison matrix:
-![Confusion Matrix](confusion_matrix.png)
-
-Training results:
-![Training Results](training_results.png)
+<table>
+<tr>
+<td><img src="confusion_matrix.png" width="350" alt="Confusion Matrix"/></td>
+<td><img src="training_results.png" width="350" alt="Training Curves"/></td>
+</tr>
+</table>
 
 
 ✨ Features
