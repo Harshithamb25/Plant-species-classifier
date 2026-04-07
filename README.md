@@ -22,11 +22,16 @@ Classes : Celosia Argenta L, Crowfoot Grass, Purple Chloris |
 
 📁 Repository Structure
 
-Plant_Species_Classifier.ipynb (Training notebook)
-plant_species_classifier.keras (100% accurate model)
-requirements.txt (Dependencies)
-confusion_matrix.png (Results)
-training_results.png (Training curves)
+ -> Plant_Species_Classifier.ipynb (Training notebook)
+ 
+ -> plant_species_classifier.keras (100% accurate model)
+ 
+ -> requirements.txt (Dependencies)
+ 
+ -> confusion_matrix.png (Results)
+ 
+ -> training_results.png (Training curves)
+ 
 
 🚀 Quick Start
 
