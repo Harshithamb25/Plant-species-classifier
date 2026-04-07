@@ -11,6 +11,7 @@ Deep learning model for classifying 3 plant species using TensorFlow and transfe
 Classes : Celosia Argenta L, Crowfoot Grass, Purple Chloris |
 
 ![Confusion Matrix](confusion_matrix.png)
+![Training Results](training_results.png)
 
 🛠️ Tech Stack
 
